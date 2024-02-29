@@ -8,7 +8,7 @@ Responsive bir website geliştirildi. Bu depo, temel restoran yönetim sistemler
 **Sipariş Verme: Müşteriler, menüden seçtikleri öğeleri sepete ekleyerek sipariş verebilirler.
 **Sipariş Yönetimi: Restoran personeli, gelen siparişleri görüntüleyebilir ve yönetebilir.
 **Menü Yönetimi: Personel, menüye öğe ekleyebilir, güncelleyebilir veya silebilir.
-**Rezervasyon Sistemi: İsteğe bağlı olarak, müşterilerin masa rezervasyonu yapabilmeleri için bir rezervasyon sistemi eklenebilir.
+\*\*Rezervasyon Sistemi: İsteğe bağlı olarak, müşterilerin masa rezervasyonu yapabilmeleri için bir rezervasyon sistemi eklenebilir.
 
 # Teknolojiler
 
@@ -17,7 +17,7 @@ Responsive bir website geliştirildi. Bu depo, temel restoran yönetim sistemler
 
 # GIF
 
-![](images/images/restaurantwebsitegif.gif)
+![](images/restaurantwebsitegif.gif)
 
 # Ekran Görüntüleri
 
