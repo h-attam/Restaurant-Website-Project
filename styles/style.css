@@ -127,7 +127,7 @@ a {
 /* home start */
 .home {
   min-height: 115vh;
-  background: url(../images/images/home.jpg) no-repeat;
+  background: url(../images/home.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   margin-top: -14.5rem;
